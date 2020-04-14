@@ -1,2 +1,2 @@
 #  Python-Place
-## Upload some of my python codes here
+## My python codes from online excerises, Udemy courses, and reading
